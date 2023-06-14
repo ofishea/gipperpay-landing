@@ -13,5 +13,4 @@ mobileleft,
 mobileright,
 twitter,
 telegram,
-
 }
